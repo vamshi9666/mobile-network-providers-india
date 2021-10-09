@@ -1,7 +1,10 @@
-import {Command, flags} from '@oclif/command'
+import {Command, flags} from '@oclif/command';
+import {writeFileSync} from 'fs';
+import {join, resolve} from 'path';
+import getData from './get-data';
 
 class MobileNetworkProvidersIndia extends Command {
-  static description = 'describe the command here'
+  static description = 'describe the command here';
 
   static flags = {
     // add --version flag to show CLI version
@@ -11,19 +14,19 @@ class MobileNetworkProvidersIndia extends Command {
     name: flags.string({char: 'n', description: 'name to print'}),
     // flag with no value (-f, --force)
     force: flags.boolean({char: 'f'}),
-  }
+  };
 
-  static args = [{name: 'file'}]
+  static args = [{name: 'file'}];
 
   async run() {
-    const {args, flags} = this.parse(MobileNetworkProvidersIndia)
+    const {args, flags} = this.parse(MobileNetworkProvidersIndia);
 
-    const name = flags.name ?? 'world'
-    this.log(`hello ${name} from ./src/index.ts`)
-    if (args.file && flags.force) {
-      this.log(`you input --force and --file: ${args.file}`)
-    }
+    const res = await getData();
+
+    this.log('Pretty output is ', res);
+    const outJson = join(resolve('./'), './result/data.json');
+    writeFileSync(outJson, JSON.stringify(res), 'utf8');
   }
 }
 
-export = MobileNetworkProvidersIndia
+export = MobileNetworkProvidersIndia;
