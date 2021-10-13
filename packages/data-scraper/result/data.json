@@ -1,0 +1,266 @@
+[
+    {
+        "price": 249,
+        "validity_in_days": 28,
+        "advantages_length": 2,
+        "advantages": [
+            "JioCinema",
+            "JioTV"
+        ],
+        "data": "2 GB/day",
+        "bundle_name": "20% JioMart Maha Cashback",
+        "provider_name": "jio"
+    },
+    {
+        "price": 555,
+        "validity_in_days": 84,
+        "advantages_length": 2,
+        "advantages": [
+            "JioTv",
+            "JioCinema"
+        ],
+        "data": "1.5 GB/day",
+        "bundle_name": "20% JioMart Maha Cashback",
+        "provider_name": "jio"
+    },
+    {
+        "price": 599,
+        "validity_in_days": 84,
+        "advantages_length": 2,
+        "advantages": [
+            "JioTv",
+            "JioCinema"
+        ],
+        "data": "2 GB/day",
+        "bundle_name": "20% JioMart Maha Cashback",
+        "provider_name": "jio"
+    },
+    {
+        "price": 2599,
+        "validity_in_days": 365,
+        "advantages_length": 2,
+        "advantages": [
+            "hotstar",
+            "Jiotv"
+        ],
+        "data": "2 GB/day",
+        "bundle_name": "2 GB/day Packs",
+        "provider_name": "jio"
+    },
+    {
+        "price": 2399,
+        "validity_in_days": 365,
+        "advantages_length": 2,
+        "advantages": [
+            "JioTv",
+            "JioCinema"
+        ],
+        "data": "2 GB/day",
+        "bundle_name": "2 GB/day Packs",
+        "provider_name": "jio"
+    },
+    {
+        "price": 888,
+        "validity_in_days": 84,
+        "advantages_length": 2,
+        "advantages": [
+            "hotstar",
+            "JioTV"
+        ],
+        "data": "2 GB/day",
+        "bundle_name": "2 GB/day Packs",
+        "provider_name": "jio"
+    },
+    {
+        "price": 666,
+        "validity_in_days": 56,
+        "advantages_length": 2,
+        "advantages": [
+            "hotstar",
+            "JioTV"
+        ],
+        "data": "2 GB/day",
+        "bundle_name": "2 GB/day Packs",
+        "provider_name": "jio"
+    },
+    {
+        "price": 599,
+        "validity_in_days": 84,
+        "advantages_length": 2,
+        "advantages": [
+            "JioTv",
+            "JioCinema"
+        ],
+        "data": "2 GB/day",
+        "bundle_name": "2 GB/day Packs",
+        "provider_name": "jio"
+    },
+    {
+        "price": 444,
+        "validity_in_days": 56,
+        "advantages_length": 2,
+        "advantages": [
+            "JioTv",
+            "JioCinema"
+        ],
+        "data": "2 GB/day",
+        "bundle_name": "2 GB/day Packs",
+        "provider_name": "jio"
+    },
+    {
+        "price": 249,
+        "validity_in_days": 28,
+        "advantages_length": 2,
+        "advantages": [
+            "JioCinema",
+            "JioTV"
+        ],
+        "data": "2 GB/day",
+        "bundle_name": "2 GB/day Packs",
+        "provider_name": "jio"
+    },
+    {
+        "price": 3499,
+        "validity_in_days": 365,
+        "advantages_length": 2,
+        "advantages": [
+            "JioTv",
+            "JioCinema"
+        ],
+        "data": "3 GB/day",
+        "bundle_name": "3 GB/day Packs",
+        "provider_name": "jio"
+    },
+    {
+        "price": 499,
+        "validity_in_days": 28,
+        "advantages_length": 2,
+        "advantages": [
+            "hotstar",
+            "JioTV"
+        ],
+        "data": "3 GB/day",
+        "bundle_name": "3 GB/day Packs",
+        "provider_name": "jio"
+    },
+    {
+        "price": 999,
+        "validity_in_days": 84,
+        "advantages_length": 2,
+        "advantages": [
+            "JioTv",
+            "JioCinema"
+        ],
+        "data": "3 GB/day",
+        "bundle_name": "3 GB/day Packs",
+        "provider_name": "jio"
+    },
+    {
+        "price": 349,
+        "validity_in_days": 28,
+        "advantages_length": 2,
+        "advantages": [
+            "JioTv",
+            "JioCinema"
+        ],
+        "data": "3 GB/day",
+        "bundle_name": "3 GB/day Packs",
+        "provider_name": "jio"
+    },
+    {
+        "price": 597,
+        "validity_in_days": 90,
+        "advantages_length": 2,
+        "advantages": [
+            "JioTv",
+            "JioCinema"
+        ],
+        "data": "75 GB",
+        "bundle_name": "Jio Freedom Plans",
+        "provider_name": "jio"
+    },
+    {
+        "price": 247,
+        "validity_in_days": 30,
+        "advantages_length": 2,
+        "advantages": [
+            "JioTv",
+            "JioCinema"
+        ],
+        "data": "25 GB",
+        "bundle_name": "Jio Freedom Plans",
+        "provider_name": "jio"
+    },
+    {
+        "price": 2121,
+        "validity_in_days": 336,
+        "advantages_length": 2,
+        "advantages": [
+            "JioTv",
+            "JioCinema"
+        ],
+        "data": "1.5 GB/day",
+        "bundle_name": "1.5 GB/day Packs",
+        "provider_name": "jio"
+    },
+    {
+        "price": 555,
+        "validity_in_days": 84,
+        "advantages_length": 2,
+        "advantages": [
+            "JioTv",
+            "JioCinema"
+        ],
+        "data": "1.5 GB/day",
+        "bundle_name": "1.5 GB/day Packs",
+        "provider_name": "jio"
+    },
+    {
+        "price": 399,
+        "validity_in_days": 56,
+        "advantages_length": 2,
+        "advantages": [
+            "JioTv",
+            "JioCinema"
+        ],
+        "data": "1.5 GB/day",
+        "bundle_name": "1.5 GB/day Packs",
+        "provider_name": "jio"
+    },
+    {
+        "price": 199,
+        "validity_in_days": 28,
+        "advantages_length": 2,
+        "advantages": [
+            "JioTv",
+            "JioCinema"
+        ],
+        "data": "1.5 GB/day",
+        "bundle_name": "1.5 GB/day Packs",
+        "provider_name": "jio"
+    },
+    {
+        "price": 98,
+        "validity_in_days": 14,
+        "advantages_length": 2,
+        "advantages": [
+            "JioTv",
+            "JioCinema"
+        ],
+        "data": "1.5 GB/day",
+        "bundle_name": "1.5 GB/day Packs",
+        "provider_name": "jio"
+    },
+    {
+        "price": 149,
+        "validity_in_days": 24,
+        "advantages_length": 2,
+        "advantages": [
+            "JioTv",
+            "JioCinema"
+        ],
+        "data": "1 GB/day",
+        "bundle_name": "1 GB/day Pack",
+        "provider_name": "jio"
+    }
+]
